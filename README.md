@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1500&color=484098&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2C+I'm+Dmitry👋" alt="Typing SVG" /></a>
 </div>
 
-<p>Quote Today:</p>
+<h3>Quote Today:</h3>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
