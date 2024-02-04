@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hi,+I’m+@Kin1599;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hi,+I’m+@Kin1599)](https://git.io/typing-svg)
 - 👀 I’m interested in programming since I was 14 years old
 - 🌱 I’m currently learning languages like C# and Python
 - 💞️ I’m looking to collaborate on a big company)
