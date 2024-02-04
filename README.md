@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hi,+I’m+@Kin1599)](https://git.io/typing-svg)
 - 👀 I’m interested in programming since I was 14 years old
 - 🌱 I’m currently learning languages like C# and Python
