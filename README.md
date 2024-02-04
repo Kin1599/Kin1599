@@ -4,11 +4,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1500&color=484098&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2C+I'm+Dmitry👋" alt="Typing SVG" /></a>
 </div>
 
-<h3>Quote Today</h3>
+<h3>📝Quote Today</h3>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<h3>About me</h3>
+<h3>😎About me</h3>
 
 - 👀 I’m interested in programming since I was 14 years old
 - 🌱 I’m currently learning languages like C# and Python
@@ -31,7 +31,7 @@
 
 [![codewars](https://www.codewars.com/users/Kin1599/badges/small)](https://www.codewars.com/users/Kin1599)
 
-<h3>LeetCode stats</h3>
+<h3>⚔️LeetCode stats</h3>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kin1599&theme=dark)](https://github.com/Kin1599/leetcode-stats)
 
