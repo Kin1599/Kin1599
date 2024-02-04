@@ -2,7 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hi,+I’m+@Kin1599)](https://git.io/typing-svg)
+<div align="center">
+    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hi,+I’m+Dmitry)](https://git.io/typing-svg)
+</div>
+
 - 👀 I’m interested in programming since I was 14 years old
 - 🌱 I’m currently learning languages like C# and Python
 - 💞️ I’m looking to collaborate on a big company)
