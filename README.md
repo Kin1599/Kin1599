@@ -8,7 +8,6 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
 <h3>About me</h3>
 
 - 👀 I’m interested in programming since I was 14 years old
@@ -16,7 +15,7 @@
 - 💞️ I’m looking to collaborate on a big company)
 - 📫 How to reach me dkonopliannikov05@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Networks</h3>
 <p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
