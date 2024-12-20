@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"  width="40" height="40" />
@@ -40,13 +41,17 @@
 </p>
 
 
+<!--
 <h3>⚔️CodeWars stats</h3>
 
 [![codewars](https://www.codewars.com/users/Kin1599/badges/small)](https://www.codewars.com/users/Kin1599)
+--->
 
+<!--
 <h3>⚔️LeetCode stats</h3>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kin1599&theme=dark)](https://github.com/Kin1599/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kin1599&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+--->
 
 <!---
 Kin1599/Kin1599 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
