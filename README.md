@@ -20,29 +20,61 @@
 <h3 align="left">🕸Social Networks</h3>
 <p align="left">
 <a href="https://t.me/Kin1599" target="blank"><img align="center" src="https://github.com/TelegramBeta/Telegram/blob/main/Assets/telegram.png" alt="Kin1599" height="40" width="40"></a>
-<a href="https://fb.com/100045124103628" target="пустой"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Дмитрий Коноплянников" height="40" width="40" /></a>
+<!-- <a href="https://fb.com/100045124103628" target="пустой"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Дмитрий Коноплянников" height="40" width="40" /></a> -->
 <a href="https://instagram.com/konoplyannikov_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="konoplyannikov_15" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/dkonopliannikov1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dkonopliannikov1" height="40" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/dkonopliannikov1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dkonopliannikov1" height="40" width="40" /></a> -->
 </p>
 
-<h3 align="left">🛠 Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" height="40" alt="redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+<h3>🎓 Education</h3>
+<ul>
+  <li><b>NUST MISIS</b> – Intelligent Systems for Data Analysis (2023–2027)</li>
+  <li><b>ITAM Courses</b>: Docker, Python Backend, Golang Ninja, Big Golang</li>
+  <li><b>Yandex Practicum</b>: Basics of Git</li>
+</ul>
+
+<h3>📊 Tech Stack</h3>
+<h4>Backend</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+</p>
+<h4>DevOps</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40"/>
 </p>
 
+<h3>🏆 Competition Background</h3>
+<ul>
+  <li>🥇 Кокос Hack 2024 – Web platform for football club</li>
+  <li>🥈 ФИЦ 2024 – Personal finance tracking</li>
+  <li>🥈 Gagarin Hack 2024 – Document classification API</li>
+  <li>🥉 T1 Impulse 2024 – Digital assistant platform</li>
+</ul>
+
+<h3>🐶 Projects</h3>
+<ul>
+  <li><b>FlowCode (In Progress)</b>: Real-time collaborative coding platform using Go (Gin, WebSockets), PostgreSQL, and Docker sandbox. Integrated Yandex S3 for project storage. <a href="https://github.com/Kin1599/LiveCode-Platform">GitHub</a></li>
+</ul>
+
+<h3>🌐 Languages</h3>
+<ul>
+  <li>🇷🇺 Russian – Native</li>
+  <li>🇬🇧 English – B1</li>
+</ul>
+
+<h3>🏂 Hobbies</h3>
+<ul>
+  <li>⚽ Football</li>
+  <li>📖 Reading tech blogs</li>
+  <li>🎮 Gaming</li>
+</ul>
 
 <!--
 <h3>⚔️CodeWars stats</h3>
